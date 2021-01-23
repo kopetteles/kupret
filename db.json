@@ -1,1 +1,418 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 2,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        
+        "startaap":"1234567890",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+     
 
+        }
+    ],
+
+"More":
+  [ 
+
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Among Us",
+      "gambar": "https://1.bp.blogspot.com/-rKT3tWLg5sM/YAu7I4INyLI/AAAAAAAAHBQ/SDt1XlgoLCgK4Nta1UthbtTshHc-CUU_wCLcBGAsYHQ/s794/amo%2B%252852%2529.jpg"
+     
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 1",
+      "image":"https://1.bp.blogspot.com/-rKT3tWLg5sM/YAu7I4INyLI/AAAAAAAAHBQ/SDt1XlgoLCgK4Nta1UthbtTshHc-CUU_wCLcBGAsYHQ/s794/amo%2B%252852%2529.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 2",
+      "image":"https://1.bp.blogspot.com/-kKo16hUd3NQ/YAu7I6aB26I/AAAAAAAAHBM/2z4CCX3f8MUnls7BSw4hCshBdy_IrdmagCLcBGAsYHQ/s400/amo%2B%252851%2529.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 3",
+      "image":"https://1.bp.blogspot.com/-bm_sXo2dRqo/YAu7IthbcUI/AAAAAAAAHBI/QLSPDxWcvgc-_1_sBAxNZjyrhwrd0bqOwCLcBGAsYHQ/s1007/amo%2B%252850%2529.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 4",
+      "image":"https://1.bp.blogspot.com/-KPZZVNxXD6o/YAu7IZ0zDZI/AAAAAAAAHBE/IjLHvdlYL00AVTosY7gAYtS_nHEWadGDwCLcBGAsYHQ/s1001/amo%2B%252849%2529.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 5",
+      "image":"https://1.bp.blogspot.com/-OFJ_WbcKh4M/YAu7IPMQZrI/AAAAAAAAHA8/vJJ8ZaL1u-4JTs21SImI6MyZsN2ZfFMfACLcBGAsYHQ/s1002/amo%2B%252848%2529.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 6",
+      "image":"https://1.bp.blogspot.com/-mg8N3i4uxF0/YAu7H4hHH_I/AAAAAAAAHA4/xq8x1Egn_iod1D5OcI1hwi3Zc1XpSHMlACLcBGAsYHQ/s1002/amo%2B%252847%2529.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 7",
+      "image":"https://1.bp.blogspot.com/-7h8x4Bbax0M/YAu7HzzK09I/AAAAAAAAHA0/lalZaH7Uts4ojxcEzJNqRQ0D7DZy5p87ACLcBGAsYHQ/s1002/amo%2B%252846%2529.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 8",
+      "image":"https://1.bp.blogspot.com/-WCCKegN3GJs/YAu7HRPhoXI/AAAAAAAAHAw/eLRgd-2wWlUeGSNcmuoOSqZixxIF9eU4QCLcBGAsYHQ/s1128/amo%2B%252845%2529.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 9",
+      "image":"https://1.bp.blogspot.com/-ynNvXnD5X30/YAu7HcjNI6I/AAAAAAAAHAs/9qODmb4BrCsLEfi2PDQECcJXJ2ZheO0HgCLcBGAsYHQ/s932/amo%2B%252844%2529.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 10",
+      "image":"https://1.bp.blogspot.com/-li6rSgz_184/YAu7HLzrqOI/AAAAAAAAHAo/LEkmQmdamz0jq23aVn42hm7B35POlrasACLcBGAsYHQ/s1280/amo%2B%252843%2529.jpg"
+    },
+    {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 11",
+      "image":"https://1.bp.blogspot.com/-9mY6XlN4m-M/YAu7HDNI1jI/AAAAAAAAHAk/darr6b9RSQ8sVGJ25NtCDzat6UKL6BYoACLcBGAsYHQ/s794/amo%2B%252842%2529.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 12",
+      "image":"https://1.bp.blogspot.com/-PrGFynF059Y/YAu7G25Si8I/AAAAAAAAHAg/aFVKiAAusGst3mQYCrgQeCYVxSfc72jyACLcBGAsYHQ/s1002/amo%2B%252841%2529.jpg"
+    },
+    {
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 13",
+      "image":"https://1.bp.blogspot.com/-h_6HOVUoax4/YAu7GnG59wI/AAAAAAAAHAc/-THRcCIpTQM-wSKSnZQukn7XiTEnKiG-ACLcBGAsYHQ/s1001/amo%2B%252840%2529.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 14",
+      "image":"https://1.bp.blogspot.com/-0nS2yWEK6mk/YAu7GhUdWuI/AAAAAAAAHAY/glr1LxOQrfwCP13bTx3elbnWPFDleNhCwCLcBGAsYHQ/s1280/amo%2B%252839%2529.jpg"
+    },
+    {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 15",
+      "image":"https://1.bp.blogspot.com/-VBwPLYK3w9k/YAu7GKZ2dFI/AAAAAAAAHAQ/UapX5R1Oc8cpkoZqvckYozU5mG92Ap0xgCLcBGAsYHQ/s1280/amo%2B%252838%2529.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 16",
+      "image":"https://1.bp.blogspot.com/-4DNrOAMUXMo/YAu7F3JFWBI/AAAAAAAAHAI/QcqXElXCL5cp7Opo1LnEkHLbkDalv7NnACLcBGAsYHQ/s1280/amo%2B%252837%2529.jpg"
+    },
+    {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 17",
+      "image":"https://1.bp.blogspot.com/-g0SQxyWPGxY/YAu7F1DKqUI/AAAAAAAAHAM/coqu6i5rxLAFgqRsMRmXYsYwYXS5TRYdACLcBGAsYHQ/s1280/amo%2B%252836%2529.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 18",
+      "image":"https://1.bp.blogspot.com/--dP1_N8ac8g/YAu7FoMYf9I/AAAAAAAAHAE/D18vtzOUm_szfJiUxBdeBC8joH0BCTqxgCLcBGAsYHQ/s1280/amo%2B%252835%2529.jpg"
+    },
+    {
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 19",
+      "image":"https://1.bp.blogspot.com/-BfyB7iIeTqI/YAu7FPbNADI/AAAAAAAAHAA/InN4HVJb8jUOlNULaMHrMZCx-bXWzRSsgCLcBGAsYHQ/s1280/amo%2B%252834%2529.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 20",
+      "image":"https://1.bp.blogspot.com/-YJxeAvVjiAg/YAu7FCRdeHI/AAAAAAAAG_4/nfWzOhuqpwgwIK0DYdf24CItJ7u9_AuNQCLcBGAsYHQ/s1280/amo%2B%252833%2529.jpg"
+    },
+    {
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 21",
+      "image":"https://1.bp.blogspot.com/-nYFbXQjH52U/YAu7FJ2HnnI/AAAAAAAAG_8/HBVLyi3zrcsUQ2kZ_h6MuqJ7f0ZhLdgIQCLcBGAsYHQ/s1280/amo%2B%252832%2529.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 22",
+      "image":"https://1.bp.blogspot.com/-YRrbHuC4efc/YAu7Ep6_HyI/AAAAAAAAG_0/C4pINm6RJf0vKVKYODC7VssnFe7FYvshQCLcBGAsYHQ/s1280/amo%2B%252831%2529.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 23",
+      "image":"https://1.bp.blogspot.com/-jWnDsIzzX-M/YAu7EkT0qhI/AAAAAAAAG_w/5I45qKxEH-8OWdceHS4MrKqrqnYWM5YcwCLcBGAsYHQ/s1280/amo%2B%252830%2529.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 24",
+      "image":"https://1.bp.blogspot.com/-PKi5JrC6SXE/YAu7EAenbgI/AAAAAAAAG_o/qhaPtGcC3DMiOOsw21I1t3sRWha530P-ACLcBGAsYHQ/s1280/amo%2B%252829%2529.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 25",
+      "image":"https://1.bp.blogspot.com/-uvVNTg8McAU/YAu7EHLAgiI/AAAAAAAAG_k/KHMNHj0i1ykajBsI4PmaSNwTaCVlwNx7QCLcBGAsYHQ/s1280/amo%2B%252828%2529.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 26",
+      "image":"https://1.bp.blogspot.com/-GzeXS7GWlrM/YAu7Dz7XlQI/AAAAAAAAG_g/uDPTgKxli9Y6TXC6XUFwbDaQBThtzZ-WgCLcBGAsYHQ/s1280/amo%2B%252827%2529.jpg"
+    },
+    {
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 27",
+      "image":"https://1.bp.blogspot.com/-xhUyhtxtDK4/YAu7DrgEnKI/AAAAAAAAG_c/It40Okkcsuobo_EPjecw4zj9fvmbYiu8wCLcBGAsYHQ/s1280/amo%2B%252826%2529.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 28",
+      "image":"https://1.bp.blogspot.com/-QmlpjJFdil0/YAu7DnKuvxI/AAAAAAAAG_Y/cK2_R-BTOcgTa5Yunk4EWSNp6niDRW3OQCLcBGAsYHQ/s1280/amo%2B%252825%2529.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 29",
+      "image":"https://1.bp.blogspot.com/-YnA0GGvdoYY/YAu7DYvWdII/AAAAAAAAG_U/bqg7iOENc0os_-TE7DOPJYHuAVi_QFddQCLcBGAsYHQ/s1280/amo%2B%252824%2529.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 30",
+      "image":"https://1.bp.blogspot.com/-PK12qaL-UGo/YAu7DPVeftI/AAAAAAAAG_Q/uISK9hvhsg8gyI8OfpIqbAW2gRG7eUBsACLcBGAsYHQ/s1280/amo%2B%252823%2529.jpg"
+    },
+    {
+      "id":31,
+      "id_wall":"031",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 31",
+      "image":"https://1.bp.blogspot.com/-ijMDAVvyIs8/YAu7CzEQSgI/AAAAAAAAG_M/FsA8RJMoNq0cVIXhjojd3Qt7AATqkl95QCLcBGAsYHQ/s1280/amo%2B%252822%2529.jpg"
+    },
+    {
+      "id":32,
+      "id_wall":"032",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 32",
+      "image":"https://1.bp.blogspot.com/--hRCUWt6yrE/YAu7CjpdG5I/AAAAAAAAG_I/Oc6u2i9UtMAtUCmUellGW1eVmWi_AUDSgCLcBGAsYHQ/s1280/amo%2B%252821%2529.jpg"
+    },
+    {
+      "id":33,
+      "id_wall":"033",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 33",
+      "image":"https://1.bp.blogspot.com/-qNwZAPKLhIM/YAu7CvLQQ1I/AAAAAAAAG_E/j1zsoktamX495EEIG4SN08HSZsaTvLhEgCLcBGAsYHQ/s1280/amo%2B%252820%2529.jpg"
+    },
+    {
+      "id":34,
+      "id_wall":"034",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 34",
+      "image":"https://1.bp.blogspot.com/-ZMKpxSs3LOo/YAu7B2xjfNI/AAAAAAAAG-8/VQFjjObWDHwJMyHPZ-lCPrMaS5JNvCTFACLcBGAsYHQ/s1280/amo%2B%252819%2529.jpg"
+    },
+    {
+      "id":35,
+      "id_wall":"035",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 35",
+      "image":"https://1.bp.blogspot.com/-i0XmUdTvkxE/YAu7B8hbLtI/AAAAAAAAG-0/lx1K3NwLxXURywf0Icu7kwH56nK1v6WqACLcBGAsYHQ/s1280/amo%2B%252818%2529.jpg"
+    },
+    {
+      "id":36,
+      "id_wall":"036",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 36",
+      "image":"https://1.bp.blogspot.com/-dTJWrYf8myM/YAu7B8_2RxI/AAAAAAAAG-4/Z9YYyHmV0q0ad7PvOVrrkBud6zGfxX2dQCLcBGAsYHQ/s1280/amo%2B%252817%2529.jpg"
+    },
+    {
+      "id":37,
+      "id_wall":"037",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 37",
+      "image":"https://1.bp.blogspot.com/-PuOTpwtf3M4/YAu7BdGJRlI/AAAAAAAAG-w/ooQwCyCEg2M93_Euyuh4YsosusNX_i8KACLcBGAsYHQ/s1280/amo%2B%252816%2529.jpg"
+    },
+    {
+      "id":38,
+      "id_wall":"038",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 38",
+      "image":"https://1.bp.blogspot.com/-PzT71qE16GI/YAu7BchTJRI/AAAAAAAAG-s/MuwWrAEAu4guCB3VyQDyMcbnMfhF1b7sgCLcBGAsYHQ/s1280/amo%2B%252815%2529.jpg"
+    },
+    {
+      "id":39,
+      "id_wall":"039",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 39",
+      "image":"https://1.bp.blogspot.com/-MLxeKObeeTA/YAu7BKm0wuI/AAAAAAAAG-o/5zbcbIoUZxcflCJFArp3KbvqtyqANTtqQCLcBGAsYHQ/s1280/amo%2B%252814%2529.jpg"
+    },
+    {
+      "id":40,
+      "id_wall":"040",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 40",
+      "image":"https://1.bp.blogspot.com/-8mE_Ulpoaog/YAu7At8fxJI/AAAAAAAAG-g/GXjztiWNLE0ffvLhBmfTc5lS53nv8sN_gCLcBGAsYHQ/s1280/amo%2B%252813%2529.jpg"
+    },
+    {
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 41",
+      "image":"https://1.bp.blogspot.com/-B4ZqqNZ4g0k/YAu7ArhVkKI/AAAAAAAAG-k/2H4Ci2a4RQcmYuVSRfivXELpExFS_pv1wCLcBGAsYHQ/s1280/amo%2B%252812%2529.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 42",
+      "image":"https://1.bp.blogspot.com/-E-JxewFrAo8/YAu7AcmrGkI/AAAAAAAAG-c/Sh9AZEEa8GI1uhW3YeLi0SWyEz5pU8ABwCLcBGAsYHQ/s1280/amo%2B%252811%2529.jpg"
+    },
+    {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 43",
+      "image":"https://1.bp.blogspot.com/-oxjeOtOsO9Y/YAu6_qqEhQI/AAAAAAAAG-Q/Ju4Ol_ohdKwdsOGBaa1h2CGfpVX8_6DIQCLcBGAsYHQ/s1280/amo%2B%252810%2529.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 44",
+      "image":"https://1.bp.blogspot.com/-BNwXakdlKGU/YAu7JgCsXqI/AAAAAAAAHBc/tv5k7O4yLbISbu24DjyYTCSxPgZ1AsSdwCLcBGAsYHQ/s1280/amo%2B%25289%2529.jpg"
+    },
+    {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 45",
+      "image":"https://1.bp.blogspot.com/-4htJD5oI--A/YAu7Jne25aI/AAAAAAAAHBg/ILPcv3Q9200aB67N4zzHwc72jAfTp3VyACLcBGAsYHQ/s1280/amo%2B%25288%2529.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 46",
+      "image":"https://1.bp.blogspot.com/-ZvvdZFKwf3c/YAu7JXNko-I/AAAAAAAAHBY/Qq61U25XXxwPNSnG3NDDCCrFFB1gOIo3gCLcBGAsYHQ/s1280/amo%2B%25287%2529.jpg"
+    },
+    {
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 47",
+      "image":"https://1.bp.blogspot.com/-WjoZYW_ct80/YAu7JILjFfI/AAAAAAAAHBU/ASWTuvEw_WMSbQhp26iuPMNORdPylfZzgCLcBGAsYHQ/s1280/amo%2B%25286%2529.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 48",
+      "image":"https://1.bp.blogspot.com/-EafUQopj1Og/YAu7IbMlhuI/AAAAAAAAHBA/05ZgV6bwXV4-zYX-6y8ZnHZgkShgspeHACLcBGAsYHQ/s1280/amo%2B%25285%2529.jpg"
+    },
+    {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 49",
+      "image":"https://1.bp.blogspot.com/-5aywrBQ8Rwg/YAu7Gb0PuEI/AAAAAAAAHAU/_fIM_0WGHXMwx6JYhNscDOoWNrCWX6uogCLcBGAsYHQ/s1002/amo%2B%25284%2529.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 50",
+      "image":"https://1.bp.blogspot.com/-4ozDWIe2ZYs/YAu7EtZ7i1I/AAAAAAAAG_s/GIUjqXtg028wcQg_j8ZNbVK9jn-FHLAaACLcBGAsYHQ/s1074/amo%2B%25283%2529.jpg"
+    },
+    {
+      "id":51,
+      "id_wall":"051",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 51",
+      "image":"https://1.bp.blogspot.com/-horNTwG0jsc/YAu7CWy5fGI/AAAAAAAAG_A/o4vfM2IIBiY1KhKT1Rb3VkWp80yH9IcpgCLcBGAsYHQ/s1002/amo%2B%25282%2529.jpg"
+    },
+    {
+      "id":52,
+      "id_wall":"052",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 52",
+      "image":"https://1.bp.blogspot.com/-DXckyFkOrVY/YAu6_p6WhzI/AAAAAAAAG-U/xRxErZVG1CM952BO5QX8cDt2A5MDtoTgQCLcBGAsYHQ/s1002/amo%2B%25281%2529.jpg"
+    },
+    {
+      "id":53,
+      "id_wall":"053",
+      "nama_cat": "Among Us",
+      "judul":"Among Us 53",
+      "image":"https://1.bp.blogspot.com/-QW1Y430OulM/YAu6_mNBSRI/AAAAAAAAG-Y/GqIFiSJndzYpGzM46iYmJNULbP58GQDFQCLcBGAsYHQ/s1599/18.jpg"
+    }
+
+
+
+  ]
+}
